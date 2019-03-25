@@ -1,0 +1,401 @@
+O pacman, seguido por 3 fantasmas, andou a fazer um quadrado há volta do quadrado de centro (12,9) por multiplas vezes, enquando, quando estivesse na posicao (14,10) devia ter optado pela (15,10) de forma a ir buscar o boost!
+
+
+
+
+
+Lives:  1
+Pacman:  (11, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 22], False, 0], [[12, 7], False, 0], [[12, 7], False, 0], [[13, 7], False, 0]]
+Path:  [12, 7]  -->  (11, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 23], False, 0], [[11, 7], False, 0], [[11, 7], False, 0], [[12, 7], False, 0]]
+Path:  (10, 7)  -->  (10, 8)
+Solution Cost:  8.0
+
+Lives:  1
+Pacman:  (10, 8)
+Target:  (10, 4)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 24], False, 0], [[10, 7], False, 0], [[10, 7], False, 0], [[11, 7], False, 0]]
+Path:  [10, 7]  -->  (10, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 9)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 25], False, 0], [[10, 8], False, 0], [[10, 8], False, 0], [[10, 7], False, 0]]
+Path:  [10, 8]  -->  (10, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 26], False, 0], [[10, 9], False, 0], [[10, 9], False, 0], [[10, 8], False, 0]]
+Path:  (10, 10)  -->  (11, 10)
+Solution Cost:  6.666666666666666
+
+Lives:  1
+Pacman:  (11, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[3, 26], False, 0], [[10, 10], False, 0], [[10, 10], False, 0], [[10, 9], False, 0]]
+Path:  [10, 10]  -->  (11, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[2, 26], False, 0], [[11, 10], False, 0], [[11, 10], False, 0], [[10, 10], False, 0]]
+Path:  (12, 10)  -->  (13, 10)
+Solution Cost:  17.666666666666664
+
+Lives:  1
+Pacman:  (13, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[1, 26], False, 0], [[12, 10], False, 0], [[12, 10], False, 0], [[11, 10], False, 0]]
+Path:  [12, 10]  -->  (13, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[1, 27], False, 0], [[13, 10], False, 0], [[13, 10], False, 0], [[12, 10], False, 0]]
+Path:  (14, 10)  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 9)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[1, 28], False, 0], [[14, 10], False, 0], [[14, 10], False, 0], [[13, 10], False, 0]]
+Path:  [14, 10]  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 8)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[1, 29], False, 0], [[14, 9], False, 0], [[14, 9], False, 0], [[14, 10], False, 0]]
+Path:  [14, 9]  -->  (14, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[2, 29], False, 0], [[14, 8], False, 0], [[14, 8], False, 0], [[14, 9], False, 0]]
+Path:  (14, 7)  -->  (13, 7)
+Solution Cost:  17.666666666666664
+
+Lives:  1
+Pacman:  (13, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[3, 29], False, 0], [[14, 7], False, 0], [[14, 7], False, 0], [[14, 8], False, 0]]
+Path:  [14, 7]  -->  (13, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[4, 29], False, 0], [[13, 7], False, 0], [[13, 7], False, 0], [[14, 7], False, 0]]
+Path:  (12, 7)  -->  (11, 7)
+Solution Cost:  16.0
+
+Lives:  1
+Pacman:  (11, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[5, 29], False, 0], [[12, 7], False, 0], [[12, 7], False, 0], [[13, 7], False, 0]]
+Path:  [12, 7]  -->  (11, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[6, 29], False, 0], [[11, 7], False, 0], [[11, 7], False, 0], [[12, 7], False, 0]]
+Path:  (10, 7)  -->  (10, 8)
+Solution Cost:  8.0
+
+Lives:  1
+Pacman:  (10, 8)
+Target:  (10, 4)
+Boosts:  [(16, 6)]
+Ghosts:  [[[7, 29], False, 0], [[10, 7], False, 0], [[10, 7], False, 0], [[11, 7], False, 0]]
+Path:  [10, 7]  -->  (10, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 9)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[8, 29], False, 0], [[10, 8], False, 0], [[10, 8], False, 0], [[10, 7], False, 0]]
+Path:  [10, 8]  -->  (10, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[9, 29], False, 0], [[10, 9], False, 0], [[10, 9], False, 0], [[10, 8], False, 0]]
+Path:  (10, 10)  -->  (11, 10)
+Solution Cost:  6.666666666666666
+
+Lives:  1
+Pacman:  (11, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[10, 29], False, 0], [[10, 10], False, 0], [[10, 10], False, 0], [[10, 9], False, 0]]
+Path:  [10, 10]  -->  (11, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[11, 29], False, 0], [[11, 10], False, 0], [[11, 10], False, 0], [[10, 10], False, 0]]
+Path:  (12, 10)  -->  (13, 10)
+Solution Cost:  12
+
+Lives:  1
+Pacman:  (13, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 29], False, 0], [[12, 10], False, 0], [[12, 10], False, 0], [[11, 10], False, 0]]
+Path:  [12, 10]  -->  (13, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[13, 29], False, 0], [[13, 10], False, 0], [[13, 10], False, 0], [[12, 10], False, 0]]
+Path:  (14, 10)  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 9)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 29], False, 0], [[14, 10], False, 0], [[14, 10], False, 0], [[13, 10], False, 0]]
+Path:  [14, 10]  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 8)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[15, 29], False, 0], [[14, 9], False, 0], [[14, 9], False, 0], [[14, 10], False, 0]]
+Path:  [14, 9]  -->  (14, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[16, 29], False, 0], [[14, 8], False, 0], [[14, 8], False, 0], [[14, 9], False, 0]]
+Path:  (14, 7)  -->  (13, 7)
+Solution Cost:  17.666666666666664
+
+Lives:  1
+Pacman:  (13, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[17, 29], False, 0], [[14, 7], False, 0], [[14, 7], False, 0], [[14, 8], False, 0]]
+Path:  [14, 7]  -->  (13, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[17, 28], False, 0], [[13, 7], False, 0], [[13, 7], False, 0], [[14, 7], False, 0]]
+Path:  (12, 7)  -->  (11, 7)
+Solution Cost:  16.0
+
+Lives:  1
+Pacman:  (11, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[17, 27], False, 0], [[12, 7], False, 0], [[12, 7], False, 0], [[13, 7], False, 0]]
+Path:  [12, 7]  -->  (11, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[17, 26], False, 0], [[11, 7], False, 0], [[11, 7], False, 0], [[12, 7], False, 0]]
+Path:  (10, 7)  -->  (10, 8)
+Solution Cost:  8.0
+
+Lives:  1
+Pacman:  (10, 8)
+Target:  (10, 4)
+Boosts:  [(16, 6)]
+Ghosts:  [[[16, 26], False, 0], [[10, 7], False, 0], [[10, 7], False, 0], [[11, 7], False, 0]]
+Path:  [10, 7]  -->  (10, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 9)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[15, 26], False, 0], [[10, 8], False, 0], [[10, 8], False, 0], [[10, 7], False, 0]]
+Path:  [10, 8]  -->  (10, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 26], False, 0], [[10, 9], False, 0], [[10, 9], False, 0], [[10, 8], False, 0]]
+Path:  (10, 10)  -->  (11, 10)
+Solution Cost:  6.666666666666666
+
+Lives:  1
+Pacman:  (11, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 25], False, 0], [[10, 10], False, 0], [[10, 10], False, 0], [[10, 9], False, 0]]
+Path:  [10, 10]  -->  (11, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 24], False, 0], [[11, 10], False, 0], [[11, 10], False, 0], [[10, 10], False, 0]]
+Path:  (12, 10)  -->  (13, 10)
+Solution Cost:  12
+
+Lives:  1
+Pacman:  (13, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 23], False, 0], [[12, 10], False, 0], [[12, 10], False, 0], [[11, 10], False, 0]]
+Path:  [12, 10]  -->  (13, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 10)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 22], False, 0], [[13, 10], False, 0], [[13, 10], False, 0], [[12, 10], False, 0]]
+Path:  (14, 10)  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 9)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 21], False, 0], [[14, 10], False, 0], [[14, 10], False, 0], [[13, 10], False, 0]]
+Path:  [14, 10]  -->  (14, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 8)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[14, 20], False, 0], [[14, 9], False, 0], [[14, 9], False, 0], [[14, 10], False, 0]]
+Path:  [14, 9]  -->  (14, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (14, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[13, 20], False, 0], [[14, 8], False, 0], [[14, 8], False, 0], [[14, 9], False, 0]]
+Path:  (14, 7)  -->  (13, 7)
+Solution Cost:  14.666666666666664
+
+Lives:  1
+Pacman:  (13, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 20], False, 0], [[14, 7], False, 0], [[14, 7], False, 0], [[14, 8], False, 0]]
+Path:  [14, 7]  -->  (13, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 19], False, 0], [[13, 7], False, 0], [[13, 7], False, 0], [[14, 7], False, 0]]
+Path:  (12, 7)  -->  (11, 7)
+Solution Cost:  11
+
+Lives:  1
+Pacman:  (11, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 18], False, 0], [[12, 7], False, 0], [[12, 7], False, 0], [[13, 7], False, 0]]
+Path:  [12, 7]  -->  (11, 7)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 7)
+Target:  (16, 6)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 17], False, 0], [[11, 7], False, 0], [[11, 7], False, 0], [[12, 7], False, 0]]
+Path:  (10, 7)  -->  (10, 8)
+Solution Cost:  8.0
+
+Lives:  1
+Pacman:  (10, 8)
+Target:  (10, 4)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 16], False, 0], [[10, 7], False, 0], [[10, 7], False, 0], [[11, 7], False, 0]]
+Path:  [10, 7]  -->  (10, 8)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 9)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 15], False, 0], [[10, 8], False, 0], [[10, 8], False, 0], [[10, 7], False, 0]]
+Path:  [10, 8]  -->  (10, 9)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (10, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 14], False, 0], [[10, 9], False, 0], [[10, 9], False, 0], [[10, 8], False, 0]]
+Path:  (10, 10)  -->  (11, 10)
+Solution Cost:  6.666666666666666
+
+Lives:  1
+Pacman:  (11, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 13], False, 0], [[10, 10], False, 0], [[10, 10], False, 0], [[10, 9], False, 0]]
+Path:  [10, 10]  -->  (11, 10)
+Solution Cost:  0
+
+Lives:  1
+Pacman:  (12, 10)
+Target:  (15, 10)
+Boosts:  [(16, 6)]
+Ghosts:  [[[12, 12], False, 0], [[11, 10], False, 0], [[11, 10], False, 0], [[10, 10], False, 0]]
+Path:  [12, 12]  -->  (12, 10)
+Solution Cost:  0
+
+Lives:  0
+GAME OVER
+
